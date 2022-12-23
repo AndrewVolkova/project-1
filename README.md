@@ -9,7 +9,7 @@
 ```
 :innocent: Но можно воспользоваться следующей ссылкой,  и утонуть в интеракивности подсказок прямо с браузера
 
-[Просмотр Notebook с графиками](https://nbviewer.org/github/AndrewVolkova/project-1/blob/master/Project-1.%20Andrew_Volkov.ipynb)
+[Просмотр Notebook с графиками](https://nbviewer.org/github/AndrewVolkova/project-1/blob/9ddc928b48fbc34c523b954dae69458c6b2e3697/Project-1.%20Andrew_Volkov.ipynb)
 
 или скачать NoteBook локально к себе
 
